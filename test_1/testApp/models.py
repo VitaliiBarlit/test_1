@@ -7,3 +7,6 @@ class Name(models.Model):
     '''
     doc string2
     '''
+    '''
+    doc string3
+    '''
