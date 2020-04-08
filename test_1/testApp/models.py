@@ -4,4 +4,3 @@ class Name(models.Model):
     '''
     doc string
     '''
-	name = 'name'
